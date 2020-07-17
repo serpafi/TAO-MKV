@@ -1,0 +1,204 @@
+[langue spanish]
+3 = & Preferencias ...
+4 = Opciones
+5 = Temas
+6 = blanco
+7 = negro
+8 = azul
+9 = rojo
+10 = púrpura
+11 = Guardar configuración
+12 = Cargar config
+13 = idioma
+14 = francés
+15 = inglés
+16 = alemán
+17 = italiano
+18 = español
+20 = Buscar actualización
+21 = Contáctame
+22 = Acerca de
+23 = ayudantes
+89 = Presentación
+91 = Versión:
+92 = versión
+97 = TAO-MKV es un software de multiplexación por lotes gratuito.
+104 = Software todavía en construcción.
+105 = VERSIÓN BETA
+106 = Hay posibilidades de ERRORES.
+109 = dividido
+110 = modo dividido:
+112 = Opción:
+114 = Número máximo de archivos:
+116 = Archivos de enlace
+118 =  entrelazado 
+119 = sin entrelazado
+120 = GOP (cuadros):
+122 = Límite de tiempo:
+123 = Tamaño del búfer:
+127 = mkv (matroska)
+128 = Copiar
+129 = Códec:
+130 = Resolución:
+134 = Bitrate video:
+136 = Velocidad de fotogramas:
+138 = Pixel:
+140 = Extensión:
+141 = Opciones de marca de tiempo
+142 = Offset (en ms):
+144 = estiramiento:
+147 = Comprobar integridad (para MKV)
+155 = audio
+156 = Muestreo:
+160 = Copiar
+162 = Lista 2 parámetros
+163 = Opciones
+164 = compensar (en ms):
+165 =
+166 = estiramiento:
+168 = indeterminado
+169 = francés
+170 = inglés
+171 = alemán
+172 = italiano
+173 = japonés
+174 = español
+175 = subtítulo
+177 = indeterminado
+178 = francés
+179 = inglés
+180 = alemán
+181 = italiano
+182 = japonés
+183 = español
+184 = subtítulos
+185 = capítulos
+186 = video
+187 = archivos adjuntos
+188 = pistas para mantener
+190 = FPS
+194 = Lista 1 parámetros
+195 = indeterminado
+196 = francés
+197 = inglés
+198 = alemán
+199 = italiano
+200 = japonés
+201 = español
+202 = Opciones
+203 = compensar (en ms):
+205 = estiramiento:
+207 = indeterminado
+208 = francés
+209 = inglés
+210 = alemán
+211 = italiano
+212 = japonés
+213 = español
+214 = subtítulo
+216 = subtítulos
+217 = capítulos
+218 = video
+219 = archivos adjuntos
+220 = pistas para mantener
+226 = 5.1 a estéreo
+227 = OCR de subtítulos PGS \ SUP en SRT
+228 = OCR para la lista 1
+229 = OCR para la lista 2
+233 = Crear un REGISTRO
+239 = tiempo:
+240 = activar registro
+241 = parámetros
+248 = Workdir
+263 = 0
+264 = borrar
+265 = MediaInfo
+266 = Cambiar nombre
+267 = 0
+268 = 0
+269 ??= borrar
+270 = MediaInfo
+271 = Cambiar nombre
+272 = 0
+273 = inicio
+274 = parar
+275 = Lista 1
+276 = Lista 2
+279 = Destino
+282 = Presentación
+283 = vídeo
+284 = Audio
+285 = LOG
+286 = Parámetros
+
+[langue combo]
+Combo15 = No división|Después del tamaño de salida|Después de la duración de la salida|Después de marcas de tiempo específicas|En parte basado en marcas de tiempo|Antes de capítulos
+Combo11 = Sin entrelazado|Desentrelazado de verificación temporal + espacial|Velocidad de fotogramas 2X, verificación temporal + espacial
+codecaudio = Sin audio|Copiar|AAC Advanced Audio Coding (aac)|PCM signed 16-bit little-endian|MP3 MPEG-2 Audio Layer III (mp3)|AC3 Audio (Dolby Digital)|MP2 MPEG-1 Audio Layer II (mp2)
+codecvideo = Sin video|Copiar|H.264 / MPEG-4 AVC (libx264)|H.264 / MPEG-4 AVC nVidia GPU (NVENC)|H.265 / HEVC (libx265)|H.265 / HEVC nVidia GPU (NVENC)
+
+defaut 1 = No división
+defaut 2 = Sin entrelazado
+defaut 3 = Copiar
+defaut 4 = Sin audio
+defaut 5 = Sin video
+
+[MAJ]
+MAJ = Actualización disponible!
+text_maj = Una nueva versión en línea está disponible / Versión:
+
+
+[split]
+taille1  = Después de un tamaño de salida
+taille  = Tamaño:
+
+durée1  = después de una duración de salida
+durée  = Duración:
+
+horodatages1  = Después de marcas de tiempo específicas
+horodatages = Marcas de tiempo:
+
+Partiellement1  = Parcialmente basado en marcas de tiempo
+Partiellement  = Partes:
+
+Numéros1  = Antes de los capítulos
+Numéros  = Números de capítulos:
+
+
+[info msg]
+0 = Error de derecho de administrador
+
+1 = Elija la carpeta:
+2 = No se eligió carpeta de trabajo
+3 = Predeterminado:
+
+4 = Elija el ejecutable FFMPEG
+5 = No se eligió ningún archivo FFMPEG
+
+6 = Elija el mkvmerge ejecutable
+7 = No se ha elegido ningún archivo mkvmerge
+
+8 = Elija el ejecutable mkvextract
+9 = No se eligió el archivo mkvextract
+
+10 = Elija el ejecutable mkvalidator
+11 = No se eligió el archivo mkvalidator
+
+12 = Elija el ffprode ejecutable
+13 = No se ha elegido un archivo ffprode
+
+14 = Elija el ejecutable ffplay
+15 = No se eligió ningún archivo ffplay
+
+16 = Elija el mkvpropedit ejecutable
+17 = Ningún archivo mkvpropedit elegido
+
+18 = Elija el ejecutable OCR
+19 = Ningún archivo OCR seleccionado
+
+20 = Elige la carpeta
+21 = Ningún archivo de destino seleccionado
+
+22 = elige el directorio 1
+
+23 = aún no disponible
