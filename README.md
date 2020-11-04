@@ -1,4 +1,4 @@
-#### TAO-MKV ####
+#### TAO-MKV 
  
 Nous cherchons des amateurs(sans connaissance) /, passionnés, volontaires et/ou experts pour faire évoluer TAO-MKV sur plusieurs domaines:
 graphisme (sous autoit)
@@ -14,12 +14,17 @@ extension du/des fichier(s) :mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm
 
 ## Codec: 
 H264(avec ou sans GPU) ou H265(avec ou sans GPU)
-## en attente de AV1 / VP10 et VVC(H266) ##
+# en attente de AV1 / VP10 et VVC(H266) 
 
 ## Résolution : 
-640x360 720x480 852x480 960x540 1280x720 1920x1080 3840x2160 4096x2160
+640x360 / 720x480 / 852x480 / 960x540 / 1280x720 / 1920x1080 / 3840x2160 / 4096x2160
 
-## Pixel: yuv410p|yuv411p|yuv420p|yuv420p9le|yuv420p10le|yuv420p16le|yuv422p|yuv422p9le|yuv422p10le|yuv422p16le|yuv440p|yuv444p|yuv444p9le|yuv444p10le|yuv444p16le|yuva420p|yuva420p9le-|yuva420p10le|yuva420p16le|yuva422p|yuva422p9le|yuva422p10le|yuva422p16le|yuva444p|yuva444p9le|yuva444p10le|yuva444p16le
+## Pixel: 
+/ yuv410p / yuv411p / yuv420p / yuv420p9le / yuv420p10le / yuv420p16le / yuv422p / yuv422p9le / yuv422p10le / yuv422p16le /
+/ yuv440p / yuv444p / yuv444p9le / yuv444p10le / yuv444p16le / yuva420p / yuva420p9le / yuva420p10le / yuva420p16le  / 
+yuva422p / yuva422p9le / yuva422p10le / yuva422p16le / yuva444p / yuva444p9le / yuva444p10le / yuva444p16le
+
+
 
 ## Preset: 
 veryslow | slower | slow (2 pass) | medium (1 pass) | fast (1 pass) | faster | veryfast | superfast | ultrafast
