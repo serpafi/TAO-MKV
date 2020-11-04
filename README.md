@@ -9,6 +9,7 @@ Nous cherchons des amateurs (sans connaissance) /, passionnés, volontaires et/o
 
 - le code source est disponible sur : https://www.autoitscript.fr/forum/viewtopic.php?f=6&t=15307&sid=9b29e3e85fa3530c110cf385e780eae1 (non mise a jour)
 - ou demandez le code en cours directement via cette platforme ou par  taomkv@gmail.com  pour la version 3. (logiciel non utilisable actuellement mais en développement)
+### video
 
 ## Extension :
 mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm
@@ -38,13 +39,14 @@ veryslow | slower | slow (2 pass) | medium (1 pass) | fast (1 pass) | faster | v
 - 23.976 | 24 | 25 | 29.97 | 30 | 59.94 | 60
 
 
-## AUDIO
-- Echantillonnage: 24KHz | 32KHz | 44.1KHz | 48KHz
+### AUDIO
+## Echantillonnage:
+24KHz | 32KHz | 44.1KHz | 48KHz
 
 ## Codec audio: 
 - AAC, AC3, PCM, MP3, MP2
 
-## Autres fonctionnalités :
+### Autres fonctionnalités :
 - Choisir les pistes audio, sous-titre, chapitres, pièce-joints et vidéo à garder.
 - LOG en real time avec possibilité d'enregistrer le LOG en format TXT et de l'activer/désactiver pendant le processus.
 - Drag & Drop
