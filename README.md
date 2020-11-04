@@ -1,6 +1,6 @@
 #### TAO-MKV 
  
-Nous cherchons des amateurs(sans connaissance) /, passionnés, volontaires et/ou experts pour faire évoluer TAO-MKV sur plusieurs domaines:
+Nous cherchons des amateurs (sans connaissance) /, passionnés, volontaires et/ou experts pour faire évoluer TAO-MKV sur plusieurs domaines:
 - graphisme (sous autoit)
 - logique d'utilisation ( tout le monde est invité à proposer) 
 - process ffmpeg / mkvmerge /
