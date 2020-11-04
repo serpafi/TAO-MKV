@@ -3,18 +3,19 @@
 Nous cherchons des amateurs (sans connaissance) /, passionnés, volontaires et/ou experts pour faire évoluer TAO-MKV sur plusieurs domaines:
 - graphisme (sous autoit)
 - logique d'utilisation ( tout le monde est invité à proposer) 
-- process ffmpeg / mkvmerge /
+- process ffmpeg / mkvmerge / mkvextract 
+- OCR Tesseract Google
 - process batch 
 
 - le code source est disponible sur : https://www.autoitscript.fr/forum/viewtopic.php?f=6&t=15307&sid=9b29e3e85fa3530c110cf385e780eae1 (non mise a jour)
-- ou demandez le code en cours directement via cette platforme ou par  taomkv@gmail.com pour la version 3. (logiciel non utilisable actuellement)
+- ou demandez le code en cours directement via cette platforme ou par  taomkv@gmail.com  pour la version 3. (logiciel non utilisable actuellement mais en développement)
 
 ## Extension :
 mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm
 
 ## Codec: 
 - H264(avec ou sans GPU) ou H265(avec ou sans GPU)
-----en attente de AV1 / VP10 et VVC(H266)---- 
+- ----en attente de AV1 / VP10 et VVC(H266)---- 
 
 ## Résolution : 
 - 640x360 / 720x480 / 852x480 / 960x540 / 1280x720 / 1920x1080 / 3840x2160 / 4096x2160
