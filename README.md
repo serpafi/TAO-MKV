@@ -1,10 +1,10 @@
 #### TAO-MKV 
  
 Nous cherchons des amateurs(sans connaissance) /, passionnés, volontaires et/ou experts pour faire évoluer TAO-MKV sur plusieurs domaines:
-graphisme (sous autoit)
-logique d'utilisation ( tout le monde est invité à proposer) 
-process ffmpeg / mkvmerge /
-process batch 
+- graphisme (sous autoit)
+- logique d'utilisation ( tout le monde est invité à proposer) 
+- process ffmpeg / mkvmerge /
+- process batch 
 
 -le code source est disponible sur : https://www.autoitscript.fr/forum/viewtopic.php?f=6&t=15307&sid=9b29e3e85fa3530c110cf385e780eae1 (non mise a jour)
 -ou demandez le code en cours directement via cette platforme ou par  taomkv@gmail.com pour la version 3. (logiciel non utilisable actuellement)
@@ -21,8 +21,8 @@ H264(avec ou sans GPU) ou H265(avec ou sans GPU)
 
 ## Pixel: 
 / yuv410p / yuv411p / yuv420p / yuv420p9le / yuv420p10le / yuv420p16le / yuv422p / yuv422p9le / yuv422p10le / yuv422p16le /
-/ yuv440p / yuv444p / yuv444p9le / yuv444p10le / yuv444p16le / yuva420p / yuva420p9le / yuva420p10le / yuva420p16le  / 
-yuva422p / yuva422p9le / yuva422p10le / yuva422p16le / yuva444p / yuva444p9le / yuva444p10le / yuva444p16le
+- / yuv440p / yuv444p / yuv444p9le / yuv444p10le / yuv444p16le / yuva420p / yuva420p9le / yuva420p10le / yuva420p16le  / 
+-  yuva422p / yuva422p9le / yuva422p10le / yuva422p16le / yuva444p / yuva444p9le / yuva444p10le / yuva444p16le
 
 
 
