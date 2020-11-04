@@ -10,7 +10,7 @@ Nous cherchons des amateurs(sans connaissance) /, passionnés, volontaires et/ou
 - ou demandez le code en cours directement via cette platforme ou par  taomkv@gmail.com pour la version 3. (logiciel non utilisable actuellement)
 
 ## Extension :
-- extension du/des fichier(s) :mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm
+mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm
 
 ## Codec: 
 - H264(avec ou sans GPU) ou H265(avec ou sans GPU)
