@@ -14,8 +14,8 @@ Nous cherchons des amateurs (sans connaissance) /, passionnés, volontaires et/o
 mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm
 
 ## Codec: 
-- H264(avec ou sans GPU) ou H265(avec ou sans GPU)
-- ----en attente de AV1 / VP10 et VVC(H266)---- 
+- H264 (avec ou sans GPU) ou H265 (avec ou sans GPU)
+- ---- en attente de AV1 / VP10 et VVC(H266) ---- 
 
 ## Résolution : 
 - 640x360 / 720x480 / 852x480 / 960x540 / 1280x720 / 1920x1080 / 3840x2160 / 4096x2160
