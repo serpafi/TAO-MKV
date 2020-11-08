@@ -1,3 +1,18 @@
+#### TRAVAIL EN COURS POUR LA VERSION 3 en date du 09.11.2020
+graphisme : 95%
+processus d'extraction : 90%  ( 30% le 08.11.20 )
+multiplexage : 0%  
+OCR : 0%  
+LOG real-time : 20%
+lien des controles entre eux : 30%
+mediainfo : 0%
+gestion des listview ( comparaison des noms, caractères unicode et autres, couleurs pour les bugs erreurs et corrections) : 0%
+gestion des erreurs : 0%
+menu classique : 90%
+menu paramètre : 85%
+menu MAJ automatique : 100% 
+menu info : 50%
+
 #### TAO-MKV 
  
 Nous cherchons des amateurs (sans connaissance) /, passionnés, volontaires et/ou experts pour faire évoluer TAO-MKV sur plusieurs domaines:
