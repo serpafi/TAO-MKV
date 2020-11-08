@@ -10,7 +10,7 @@
 - gestion des erreurs : 0%
 - menu classique : 90%
 - menu paramètre : 85%
-- menu MAJ automatique : 100% 
+- menu mise à jour automatique : 100% 
 - menu info : 50%
 
 #### TAO-MKV 
