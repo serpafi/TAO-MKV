@@ -2,7 +2,7 @@
 - graphisme : 95%
 - processus d'extraction : 90%  ( 30% le 08.11.20 )
 - multiplexage : 0%  
-- OCR : 0%  
+- OCR (Tesseract Google): 0%  
 - LOG real-time : 20%
 - lien des controles entre eux : 30%
 - mediainfo : 0%
