@@ -12,7 +12,7 @@
 - menu paramètre : 85%
 - menu mise à jour automatique : 100% 
 - menu info : 50%
-- multilangue :95% ( en évolution )
+- multilangue : 95% ( en évolution )
 - thème différent : 1 actuellement, violet et noir
 - système d'installation automatique : 10%
 
