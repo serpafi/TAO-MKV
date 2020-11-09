@@ -16,7 +16,7 @@
 - multilangue : 95% ( en évolution )
 - thème différent : 1 actuellement, violet et noir
 - système d'installation automatique : 10%
-
+- vérification de l'intégrité mkv : 0%
 #### TAO-MKV 
  
 Nous cherchons des amateurs (sans connaissance) /, passionnés, volontaires et/ou experts pour faire évoluer TAO-MKV sur plusieurs domaines:
