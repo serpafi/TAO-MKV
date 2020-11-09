@@ -7,6 +7,7 @@
 - lien des controles entre eux : 30%
 - mediainfo : 0%
 - gestion des listview ( comparaison des noms, caractères unicode et autres, couleurs pour les bugs erreurs et corrections) : 0%
+- gestion des 2 listview simultanément : 0%
 - gestion des erreurs : 0%
 - menu classique : 90%
 - menu paramètre : 85%
@@ -15,7 +16,6 @@
 - multilangue : 95% ( en évolution )
 - thème différent : 1 actuellement, violet et noir
 - système d'installation automatique : 10%
-
 
 #### TAO-MKV 
  
