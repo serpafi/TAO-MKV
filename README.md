@@ -1,3 +1,5 @@
+![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
+
 #### TRAVAIL EN COURS POUR LA VERSION 3 en date du 09.11.2020
 - graphisme : 95%
 - processus d'extraction : 100%
@@ -84,3 +86,8 @@ veryslow | slower | slow (2 pass) | medium (1 pass) | fast (1 pass) | faster | v
 - étirement et décalage des pistes pour chaque liste
 - conversion audio 5.1 vers stéréo
 - détéction des blocks endommagés (video qui se coupe) 
+
+
+![](https://github.com/serpafi/TAO-MKV/blob/master/image/preview%20video.png)
+![](https://github.com/serpafi/TAO-MKV/blob/master/image/preview%20audio.png)
+![](https://github.com/serpafi/TAO-MKV/blob/master/image/preview%20log.png)
