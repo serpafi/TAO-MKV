@@ -6,9 +6,9 @@
 - multiplexage : 30%  
 - OCR (Tesseract Google): 0%  
 - LOG real-time : 20%
-- lien des controles entre eux : 30%
+- lien des controles entre eux : 40%
 - mediainfo : 0%
-- gestion des listview ( comparaison des noms, caractères unicode et autres, couleurs pour les bugs erreurs et corrections) : 0%
+- gestion des listview ( comparaison des noms, caractères unicode et autres, couleurs pour les bugs erreurs et corrections) : 20%
 - gestion des 2 listview simultanément : 30%
 - gestion des erreurs : 0%
 - menu classique : 90%
