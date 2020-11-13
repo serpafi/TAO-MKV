@@ -87,7 +87,7 @@ veryslow | slower | slow (2 pass) | medium (1 pass) | fast (1 pass) | faster | v
 - conversion audio 5.1 vers stéréo
 - détéction des blocks endommagés (video qui se coupe) 
 
-
+### preview de la V3
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/preview%20video.png)
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/preview%20audio.png)
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/preview%20log.png)
