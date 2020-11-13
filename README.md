@@ -19,11 +19,6 @@
 - vérification de l'intégrité et détéction des blocks endommagés (video qui se coupe) pour les mkv : 0%
 
 
-<img src="/TAO-MKV/image/Capture d’écran (22).png" alt=""/>
-
-![Alt text]"/TAO-MKV/image/Capture d’écran (22).png"
-
-![alt text](https://github.com/serpafi/TAO-MKV/blob/master/image/Capture d’écran (22).png)
 
 
 #### TAO-MKV 
