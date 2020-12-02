@@ -3,13 +3,13 @@
 #### TRAVAIL EN COURS POUR LA VERSION 3 en date du 13.11.2020
 - graphisme : 95%
 - processus d'extraction : 100%
-- multiplexage : 30%  
+- multiplexage : 60%  
 - OCR (Tesseract Google): 0%  
-- LOG real-time : 20%
-- lien des controles entre eux : 40%
+- LOG real-time : 50%
+- lien des controles entre eux : 80%
 - mediainfo : 0%
 - gestion des listview ( comparaison des noms, caractères unicode et autres, couleurs pour les bugs erreurs et corrections) : 20%
-- gestion des 2 listview simultanément : 30%
+- gestion des 2 listview simultanément : 80%
 - gestion des erreurs : 0%
 - menu classique : 90%
 - menu paramètre : 85%
