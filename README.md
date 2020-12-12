@@ -1,15 +1,17 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
-#### TRAVAIL EN COURS POUR LA VERSION 3 en date du 02.12.2020
+#### TRAVAIL EN COURS POUR LA VERSION 3 en date du 12.12.2020
 - graphisme : 95%
 - processus d'extraction : 100%
-- multiplexage : 60%  
+- multiplexage : 100%  
+- processus de conversion vidéo : 80%
+- processus de conversion audio : 50%
 - OCR (Tesseract Google): 0%  
-- LOG real-time : 50%
-- lien des controles entre eux : 80%
+- LOG real-time : 80%
+- lien des controles entre eux : 90%
 - mediainfo : 0%
 - gestion des listview ( comparaison des noms, caractères unicode et autres, couleurs pour les bugs erreurs et corrections) : 20%
-- gestion des 2 listview simultanément : 80%
+- gestion des 2 listview simultanément : 100%
 - gestion des erreurs : 0%
 - menu classique : 90%
 - menu paramètre : 85%
@@ -25,7 +27,7 @@
 
 #### TAO-MKV 
  
-Nous cherchons des amateurs (sans connaissance) /, passionnés, volontaires et/ou experts pour faire évoluer TAO-MKV sur plusieurs domaines:
+Recherche des amateurs (sans connaissance) /, passionnés, volontaires et/ou experts pour faire évoluer TAO-MKV sur plusieurs domaines:
 - graphisme (sous autoit)
 - logique d'utilisation ( tout le monde est invité à proposer) 
 - process ffmpeg / mkvmerge / mkvextract 
