@@ -1,6 +1,6 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
-en cours de débouage... :)
+en cours de déboguage... :)
 
 #### TRAVAIL EN COURS POUR LA VERSION 3 en date du 16.12.2020
 - graphisme : 95%
