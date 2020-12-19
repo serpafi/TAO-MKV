@@ -38,8 +38,6 @@ Recherche des amateurs (sans connaissance) /, passionnés, volontaires et/ou exp
 - OCR Tesseract Google
 - process batch 
 
-- le code source est disponible sur : https://www.autoitscript.fr/forum/viewtopic.php?f=6&t=15307&sid=9b29e3e85fa3530c110cf385e780eae1 (non mise a jour)
-- ou demandez le code en cours directement via cette platforme ou par  taomkv@gmail.com  pour la version 3. (logiciel non utilisable actuellement mais en développement)
 ### video
 
 ## Extension :
