@@ -2,7 +2,7 @@
 
 en cours de déboguage... :)
 
-#### TRAVAIL EN COURS POUR LA VERSION 3 en date du 16.12.2020
+#### TRAVAIL EN COURS POUR LA VERSION 3 en date du 28.12.2020
 - graphisme : 95%
 - processus d'extraction : 100%
 - multiplexage : 100%  
@@ -11,9 +11,9 @@ en cours de déboguage... :)
 - entrelacement : 10%
 - scission : 10%
 - OCR (Tesseract Google): 20%  
-- LOG real-time : 90%
+- LOG real-time : 100%
 - lien des controles entre eux : 98%
-- mediainfo : 0%
+- mediainfo : 100%
 - gestion des listview ( comparaison des noms, caractères unicode et autres, couleurs pour les bugs erreurs et corrections) : 20%
 - gestion des 2 listview simultanément : 100%
 - gestion des erreurs : 0%
