@@ -1,0 +1,272 @@
+[]
+1=&Préférences...
+2=Options
+3=Thèmes
+4=blanc
+5=noir
+6=bleu
+7=rouge
+8=violet
+9=Sauvegarder config
+10=Charger config
+11=Langue
+12=Français
+13=Anglais
+14=Allemand
+15=Italien
+16=Espagnol
+17=Autres langues ...
+18=?
+19=Rechercher une MAJ
+20=Me contacter
+21=A propos
+22=Aides
+23=LOG bug  
+24=Version :
+25=TAO-MKV est un logiciel de multiplexage par lot gratuit.
+26=Logiciel toujours en contruction.
+27=VERSION en BETA
+28=Il y a des possibilités de BUGS.
+29=  Scission  
+30=Mode de scission :
+31=Ne pas scinder
+32=Option :
+33=Nombre maximum de fichiers :
+34=Lier les fichiers
+35=  Entrelacement  
+36=Quitter
+37=GOP (frames) :
+38=Time limit :
+39=Buffer size :
+40=mkv (matroska)
+41=Codec :          
+42=Resolution :            
+43=Preset :           
+44=Bitrate video :                
+45=Extension :           
+46=  Options horodatages vidéo  
+47=Décalage (en ms) :
+48=Etirement :
+49=Vérifier l'intégrité (pour MKV) 
+50=Nettoyer (pour MKV)
+51=Echantillonnage :          
+52=Bitrate audio :                    
+53=Copier
+54=  Paramètres liste 2  
+55=  Options   
+56=Pixel:
+57=autres
+58=indeterminée
+59=francais
+60=anglais
+61=allemand
+62=italien
+63=japonais
+64=espagnol
+65=sous-titre
+66=chapitres
+67=video
+68=pièces-jointes
+69=pistes à garder
+70=  Framerate  
+71=  Paramètres liste 1  
+72=  Options    
+73=Framerate : 
+74=
+75=5.1 vers stereo
+76=  OCR des sous-titres  PGS\SUP en SRT  
+77=OCR pour la liste 1                 
+78=OCR pour la liste 2                 
+79=Créer un LOG
+80=temps :
+81=Activer le log
+82=supprimer 
+83=Renommer 
+84=demarrer
+85=arreter
+86=Liste 1
+87=Liste 2
+88=Déstination
+89=FPS
+90=Mkvmerge et Mkvextract
+91=mkvalidator 
+92=Etirement et décalage
+93=Codec
+94=Bitrate
+95=Liste 1 options et langues : 
+96=Liste 2 options et langues : 
+97=Valider
+98=Framerate
+99=Pixel
+100=Resolution         
+101=Preset                         
+102=Extension
+103=scission
+104=Entrelacement  
+105=à garder
+106=tout
+107=chapitre et ttf
+108=video à garder
+109=sauvegarder
+110=charger
+111=audio
+112=défaut
+113=forcé
+114=décalage
+115=étirement
+
+
+
+[Bouton onglet]
+1001=Présentation
+1002=Vidéo
+1003=Audio
+1005=Paramètres
+
+
+[langue combo]
+
+1006=Ne pas scinder
+1007=Après une taille de sortie
+1008=Après une durée de sortie
+1009=Après des horodatages spécifiques
+1010=Partiellement basé sur les horodatages
+1011=Avant les chapitres
+
+1012=Pas d'entrelacement
+1013=Temporal + spatial check deinterlacing
+1014=2X framerate, temporal + spatial check
+
+1015=Pas de audio
+1016=Copier
+
+1017=Pas de video
+
+1018=Pas d'entrelacement
+
+1019=très lent
+1020=plus lent
+1021=lent(2 passages)
+1022=moyen(1 passage)
+1023=rapide(1 passage)
+1024=plus rapide
+1025=très rapide
+1026=ultra-rapide
+1027=ultra-rapide
+
+
+
+
+[MAJ]
+3015=Mise à jour disponible !
+3016=
+3001=Une nouvelle mis à jour en ligne ! Version : 
+3003=Mise à jour
+3004=Télécharger
+3005=MKVmerge et MKVextract
+3006=Version actuelle : 
+3007=Dernière version : 
+3008=Pack langue
+
+[LANGUE]
+4001=Autres langues
+4002=Valider
+
+
+[split]
+7017=Après une taille de sortie
+7018=Taille
+7019=Après une durée de sortie
+7020=Durée
+7021=Après des horodatages spécifiques
+7022=Horodatages
+7023=Partiellement basé sur les l'horodatages
+7024=Parties
+7025=Avant les chapitres
+7026=Numéros des chapitres
+
+
+[info msg]
+6027=Erreur de droit administrateur
+6028=Choisissez le dossier :
+6029=Aucun dossier de travail choisi
+6030=Par defaut :
+6031=Choisissez l'executable FFMPEG 
+6032=Aucun fichier FFMPEG choisi	
+6033=Choisissez l'executable mkvmerge
+6034=Aucun fichier mkvmerge choisi
+6035=Choisissez l'executable mkvextract 
+6036=Aucun fichier mkvextract choisi
+6037=Choisissez l'executable mkvalidator 
+6038=Aucun fichier mkvalidator choisi
+6039=Choisissez l'executable ffprode 
+6040=Aucun fichier ffprode choisi
+6041=Choisissez l'executable ffplay 
+6042=Aucun fichier ffplay choisi
+6043=Choisissez l'executable mkvpropedit 
+6044=Aucun fichier mkvpropedit choisi
+6045=Choisissez l'executable OCR 
+6046=Aucun fichier OCR choisi
+6047=Choisissez le dossier 
+6048=Aucun fichier de destination choisi
+6049=Choisissez l'executable Mkvinfo
+6050=Aucun fichier MkvInfo choisi
+6051=choisir le repertoire 1
+6052=pas encore disponible
+6053=Choisissez l'executable Mediainfo
+6054=Aucun fichier MediaInfo choisi
+
+[info tips]
+2001=Ajouter les fichiers à muxer. = VERT validé = ROUGE échec dans le processus = BLEU caractère corrigé = ORANGE erreur lourde dans le /les fichier(s) source(s).
+2002=Choisir l'extension = du/des fichier(s).
+2003=Choisir l'encodeur = (le paramètre PIXEL est requis pour le = H.264 / MPEG-4 AVC nVidia GPU (NVENC)).
+2004=Rapport largeur sur hauteur en pixel.
+2005=Nombre d'images par secondes (fps) = Change la vitesse de lecture de la piste vidéo.
+2006=Choisir le nombre de pass et donc = la vitesse d'encodage.
+2007=Taux de compression. = Plus on compresse (chiffre bas) et = moins la qualité est bonne.
+2008=Choisir le codec audio = (Non l'extension audio).
+2009=Plus la fréquence est élevée, = plus l'analyse et l'encodage de la musique = en données numériques seront précis.
+2010=Taux de compression. = Plus on compresse (chiffre bas) et = moins la qualité est bonne.
+2011=Pour la taille:  = un nombre éventuellement suivi par la lettre K, M ou G  = indiquant respectivement des kilooctets (1024 octets),  = megaoctets (1024*1024 octets) et gigaoctets (1024*1024*1024 octets). = Exemples: = 700M ou 100000K. = Pour la durée:  = le format est HH:MM:SS ou un nombre suivi par la lettre 's'  = indiquant un nombre en secondes.  = Exemples:  = 01:20:00 (découper après 1h20min) ou 1800s (découper après 30min)..
+2012=Affiche les lignes de commandes.
+2013=Dans certain cas l'audio et la vidéo ne sont pas synchronisés proprement. = Avec cette option l'utilisateur peut fixer un décalage (positif ou négatif) pour la piste vidéo.
+2014=Dans certain cas l'audio et la vidéo,  = qui sont bien synchronisés au début de la lecture,  = se désynchronisent de plus en plus au fur et  = à mesure qu'on avance dans la lecture. = La valeur de départ est 1.0 = Exemples:  = pour accélérer 0.995  ,  0.98 ou encore 0.959 = pour ralentir 1.015  ,  1.12 ou 1.20.
+2015=Dans certain cas l'audio et la vidéo ne sont pas synchronisés proprement. = Avec cette option l'utilisateur peut fixer un décalage = (positif ou négatif) pour la piste audio et/ou sous-titre = par rapport à la vidéo..
+2016=Dans certain cas l'audio et la vidéo, = qui sont bien synchronisés au début de la lecture, = se désynchronisent de plus en plus au fur et = à mesure qu'on avance dans la lecture. = La valeur de départ est 1.0 = Exemples:  = pour accélérer 0.995  ,  0.98 ou encore 0.959 = pour ralentir 1.015  ,  1.12 ou 1.20.
+2017=Nombre d'images par secondes (fps). = Change la vitesse de lecture des pistes gardées = dans la liste 1 sauf la vidéo.
+2018=Nombre d'images par secondes (fps). = Change la vitesse de lecture des pistes gardées = dans la liste 2 sauf la vidéo.
+2019=Cherche les erreurs graves.
+2020=Espace colorimétrique.
+2021=Méthode d'entrelacement.
+2022=Limite le nombre d'images converties en video.
+2023=Intervalle d'images clés. = Cela détermine la distance max entre les image I. = Des longueurs GOP très élevées entraineront = une compression légèrement plus efficace, = mais rendront la recherche = dans la/les vidéo(s) un peu plus difficile.,, 0, 0)
+2024=Pour régler le débit vidéo du fichier de sortie.
+2025=Méthode de découpage.
+2026=Option de découpage.
+2027=Nombre maximum de fichiers qui seront créés.
+2028=Cette option indique à mkvmerge comment gérer le découpage (liage par segments).
+2029=Emplacement de travail pour le logiciel = Un support SSD sera plus performant.
+2030=Nom du fichier en cours.
+2031=Ligne de commande en cours.
+2032=Activer ou désactiver le log.
+2033=Créer un fichier log.
+2034=Passer les pistes gardées en stéréo 2.0.
+2035=Certains sous-titres sont des fichiers images = et ne sont pas lus par certains lecteurs multimedia.
+
+
+[infos]
+
+5001=Le débit binaire (ou « bitrate » en anglais) d’un flux vidéo ou audio = numérique sert = à quantifier la quantité de données transmises par seconde. = Plus le débit binaire est élevé, meilleure est la qualité de la vidéo. = Les unités les plus usuelles de débit binaire sont le kbps et le Mb/s. = Ce terme est communément utilisé quand on parle = de compression des données
+5002=Un codec est un dispositif matériel ou logiciel permettant de mettre = en œuvre l'encodage ou le décodage d'un flux de données numérique, = en vue d'une transmission ou d'un stockage. = Certains codec intègrent également une fonction de compression = ou encore de chiffrement des données. = Le mot-valise « codec » vient de « codeur décodeur » (coder-decoder en anglais). = Il est important de bien distinguer les notions de codec, norme et format conteneur. = La norme décrit un procédé, pouvant définir un format conteneur ou un format de compression. = Le codec est l'implémentation matérielle ou logicielle qui met en œuvre une norme. = Par exemple, MPEG-4 AVC/H.264 est une norme vidéo, et x264 est un codec capable = de produire un flux vidéo dans le format de compression décrit par la norme.
+5003=mkvalidator est un outil de ligne de commande simple = pour vérifier la conformité des fichiers Matroska et WebM. = Il vérifie les divers éléments clés faux ou manquants par rapport à la version EBML DocType = du fichier et signale les erreurs / avertissements dans la ligne de commande.
+5004=Mkvmerge : = Ce programme prend l'entrée de plusieurs fichiers multimédias et = joint leurs flux (tous ou juste une sélection) dans un fichier Matroska = = Mkvextract : = Ce programme extrait des parties spécifiques d'un fichier Matroska vers d'autres formats utiles. = (Source) = https://mkvtoolnix.download/
+5005=FPS est un sigle qui peut désigner : images par seconde
+5006=
+5007=La définition d’une image correspond à sa dimension, exprimée en pixels. = Le pixel est la plus petite composante d’une image numérique. = Il est possible de distinguer chaque pixel en grossissant fortement l’image. = Logiquement, plus une image comporte de pixels, plus elle est détaillée. = Exemple d’une image de 3 000 pixels de large et 2 000 pixels de haut : = on dit qu’elle a une définition de 3 000 x 2 000 pixels, = ou de 6 MegaPixels (3 000 x 2 000 = 6 000 000) = Plus il y a de pixels, plus l’image est « grande », = plus elle est « lourde » en terme de poids informatique. = = Autre format de pixel : = YUV est un système de codage de couleur généralement utilisé dans le cadre = d'un pipeline d'image en couleurs . = Il code pour une image couleur ou vidéo prenant la perception humaine en compte, = ce qui permet une réduction de la bande passante pour chrominance composants, = ce qui permet généralement des erreurs de transmission ou des artefacts = de compression pour être plus efficacement masquée par la perception humaine = que d' utiliser un RGB-représentation « directe ».
+5008=En vidéo, il existe différentes tailles d’image pour le ratio 16/9. = La taille de l’image est défini en pixels, par exemple 1920×1080 = pixels pour la définition HD. = Voici une liste des dimensions : = UHD – 3840×2160 px = HD – 1920×1080 px = HD Ready – 1280×720 px = SD – 1024×576 px
+5009=Un préréglage est un ensemble d'options qui fourniront = une certaine vitesse d'encodage sur le taux de compression. = Un préréglage plus lent fournira une meilleure compression = (la compression est la qualité par taille de fichier). = Cela signifie que, = par exemple, = si vous ciblez une certaine taille de fichier ou un débit binaire constant, = vous obtiendrez une meilleure qualité avec un préréglage plus lent. = De même, = pour un encodage de qualité constante, = vous économiserez simplement le débit en choisissant un préréglage plus lent. 
+5010=
+5011=
+5012=
+
+ 
