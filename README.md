@@ -1,6 +1,8 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
-en cours de déboguage... :)
+retard pour la V3,
+problème de MAJ auto!!!
+MMMhhhh!!! pas cool :(
 
 #### TRAVAIL EN COURS POUR LA VERSION 3 en date du 28.12.2020
 - graphisme : 95%
