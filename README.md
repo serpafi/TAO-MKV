@@ -1,7 +1,7 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
 
-#### TRAVAIL EN COURS POUR LA VERSION 3 en date du 28.12.2020
+#### TRAVAIL EN COURS POUR LA VERSION 3 en date du 05.01.2021
 - graphisme : 95%
 - processus d'extraction : 100%
 - multiplexage : 100%  
