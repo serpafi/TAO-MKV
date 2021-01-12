@@ -92,7 +92,6 @@ veryslow | slower | slow (2 pass) | medium (1 pass) | fast (1 pass) | faster | v
 - conversion video et audio
 - option décalage et étirement des pistes
 - ;; choix entre bitrate video ou CRF (de 0 à 50)
-- ;; nettoyage mkv
 - vérification de l'intégrité mkv
 - étirement et décalage des pistes pour chaque liste
 - conversion audio 5.1 vers stéréo
