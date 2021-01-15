@@ -1,7 +1,7 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
 
-### TRAVAIL EN COURS POUR LA VERSION 3 en date du 11.01.2021
+### TRAVAIL EN COURS POUR LA VERSION 3 en date du 15.01.2021
 
 #### Modifications en cours
 - fixed thème
