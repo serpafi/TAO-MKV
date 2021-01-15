@@ -3,13 +3,20 @@
 
 ### TRAVAIL EN COURS POUR LA VERSION 3 en date du 11.01.2021
 
-#### Développement d'un système OCR Tesseract LSTM 5.0.0.x NON inclus dans la V3 pour l'instant. 
-- extraction des sous-titre en png: 100%
-- post-traitement des bitmap: 0%
-- extraction de l'horodatage: 100%
-- conversion OCR en texte: 80% (erreurs dû au manque de post-traitement)
+#### Modifications en cours
+- fixed thème
+- fixed edit log
+- fixed barre de progression
+- add système OCR
 
-### Logiciel
+#### Développement d'un système OCR Tesseract 5.0.0.x NON inclus dans la V3 pour l'instant. 
+- extraction des sous-titre en png: 100%
+- post-traitement des bitmap: 50%
+- extraction de l'horodatage: 100%
+- conversion OCR en texte: 80% (erreurs dû au manque de post-traitement, avec 50% de post-traitement, 0 faute détectée)
+
+
+#### Logiciel
 - graphisme : 95%
 - processus d'extraction : 100%
 - multiplexage : 100%  
@@ -34,16 +41,6 @@
 - vérification de l'intégrité et détéction des blocks endommagés (video qui se coupe) pour les mkv : 0%
 
 
-
-
-#### TAO-MKV 
- 
-Recherche des amateurs (sans connaissance) /, passionnés, volontaires et/ou experts pour faire évoluer TAO-MKV sur plusieurs domaines:
-- graphisme (sous autoit)
-- logique d'utilisation ( tout le monde est invité à proposer) 
-- process ffmpeg / mkvmerge / mkvextract 
-- OCR Tesseract Google
-- process batch 
 
 ### video
 
