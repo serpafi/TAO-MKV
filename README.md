@@ -7,7 +7,7 @@
 - fixed thème
 - fixed edit log (pourcentage réctifié)
 - fixed barre de progression
-- add système OCR (intégration en cours)
+- add système OCR (intégration en cours, lecture de 10 PGS concaténés dans le même sous-titre)
 
 #### Développement d'un système OCR Tesseract 5.0.0.x NON inclus dans la V3 pour l'instant. 
 - extraction des sous-titre en png: 100%
