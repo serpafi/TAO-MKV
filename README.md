@@ -1,19 +1,19 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
 
-### TRAVAIL EN COURS POUR LA VERSION 3 en date du 15.01.2021
+### TRAVAIL EN COURS POUR LA VERSION 3 en date du 18.01.2021
 
 #### Modifications en cours
 - fixed thème
-- fixed edit log
+- fixed edit log (pourcentage réctifié)
 - fixed barre de progression
-- add système OCR
+- add système OCR (intégration en cours)
 
 #### Développement d'un système OCR Tesseract 5.0.0.x NON inclus dans la V3 pour l'instant. 
 - extraction des sous-titre en png: 100%
-- post-traitement des bitmap: 50%
+- post-traitement des bitmap: 90%
 - extraction de l'horodatage: 100%
-- conversion OCR en texte: 80% (erreurs dû au manque de post-traitement, avec 50% de post-traitement, 0 faute détectée)
+- conversion OCR en texte: 100% (erreurs dû au manque de post-traitement, avec 50% de post-traitement, 0 faute détectée)
 
 
 #### Logiciel
