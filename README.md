@@ -1,35 +1,25 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
 
-### TRAVAIL EN COURS POUR LA VERSION 3 en date du 18.01.2021
+### TRAVAIL EN COURS POUR LA VERSION 3 en date du 28.01.2021
 
 #### Modifications en cours
 - fixed barre de progression
 
 #### Logiciel
 - graphisme : 95%
-- processus d'extraction : 100%
-- multiplexage : 100%  
-- processus de conversion vidéo : 100%
-- processus de conversion audio : 100%
 - entrelacement : 10%
 - scission : 10%
-- OCR (Tesseract Google): 20%  
-- LOG real-time : 100%
 - lien des controles entre eux : 98%
 - mediainfo : 100%
 - gestion des listview ( comparaison des noms, caractères unicode et autres, couleurs pour les bugs erreurs et corrections) : 20%
-- gestion des 2 listview simultanément : 100%
 - gestion des erreurs : 0%
 - menu classique : 90%
 - menu paramètre : 85%
-- menu mise à jour automatique : 100% 
 - menu info : 50%
 - multilangue : 95% ( en évolution )
 - thème différent : 1 actuellement, violet et noir
 - système d'installation automatique : 10%
-- vérification de l'intégrité et détéction des blocks endommagés (video qui se coupe) pour les mkv : 0%
-
 
 
 ### video
