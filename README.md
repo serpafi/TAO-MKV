@@ -4,17 +4,7 @@
 ### TRAVAIL EN COURS POUR LA VERSION 3 en date du 18.01.2021
 
 #### Modifications en cours
-- fixed thème
-- fixed edit log (pourcentage réctifié)
 - fixed barre de progression
-- add système OCR (intégration en cours, lecture de 10 PGS concaténés dans le même sous-titre)
-
-#### Développement d'un système OCR Tesseract 5.0.0.x NON inclus dans la V3 pour l'instant. 
-- extraction des sous-titre en png: 100%
-- post-traitement des bitmap: 90%
-- extraction de l'horodatage: 100%
-- conversion OCR en texte: 100% (erreurs dû au manque de post-traitement, avec 50% de post-traitement, 0 faute détectée)
-
 
 #### Logiciel
 - graphisme : 95%
@@ -80,6 +70,7 @@ veryslow | slower | slow (2 pass) | medium (1 pass) | fast (1 pass) | faster | v
 - AAC, AC3, PCM, MP3, MP2
 
 ### Autres fonctionnalités :
+- conversion PGS vers SRT
 - Choisir les pistes audio, sous-titre, chapitres, pièce-joints et vidéo à garder.
 - LOG en real time avec possibilité d'enregistrer le LOG en format TXT et de l'activer/désactiver pendant le processus.
 - Drag & Drop
