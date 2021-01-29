@@ -4,6 +4,8 @@
 ### TRAVAIL EN COURS POUR LA VERSION 3 en date du 28.01.2021
 
 #### Modifications en cours
+- fixed erreur de boucle
+- amélioration bouton arrêt
 - fixed barre de progression
 
 #### Logiciel
