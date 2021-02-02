@@ -18,7 +18,7 @@
 - menu classique : 90%
 - menu paramètre : 85%
 - menu info : 50%
-- multilangue : 95% ( en évolution )
+- multilangue : 95% ( en évolution, actuellement en français)
 - thème différent : 1 actuellement, violet et noir
 - système d'installation automatique : 10%
 
