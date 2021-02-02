@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Lineendings
+*.au3        eol=crlf
+
+# Whitespace rules
+# strict (no trailing, no tabs)
+*.au3        whitespace=trailing-space,space-before-tab,cr-at-eol
