@@ -21,6 +21,10 @@
 - thème différent : 1 actuellement, violet et noir
 - système d'installation automatique : 10%
 
+### système d'exploitation
+- windows 7   64 Bits
+- windows 8   64 Bits
+- windows 10  64 Bits
 
 ### video
 
