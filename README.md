@@ -12,8 +12,6 @@
 - graphisme : 95%
 - entrelacement : 10%
 - scission : 10%
-- lien des controles entre eux : 98%
-- mediainfo : 100%
 - gestion des listview ( comparaison des noms, caractères unicode et autres, couleurs pour les bugs erreurs et corrections) : 20%
 - gestion des erreurs : 0%
 - menu classique : 90%
