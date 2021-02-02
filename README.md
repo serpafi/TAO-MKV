@@ -8,7 +8,7 @@
 - fixed barre de progression
 - recherche pour une implantation du codec VP9
 
-#### Logiciel
+## Logiciel
 - graphisme : 95%
 - entrelacement : 10%
 - scission : 10%
@@ -21,21 +21,21 @@
 - thème différent : 1 actuellement, violet et noir
 - système d'installation automatique : 10%
 
-### système d'exploitation
+## système d'exploitation
 - windows 7   64 Bits
 - windows 8   64 Bits
 - windows 10  64 Bits
 
-### video
+## video
 
-## Extension :
+#### Extension :
 mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm
 
-## Codec: 
+#### Codec: 
 - H264 (avec ou sans GPU) ou H265 (avec ou sans GPU)
 - ---- en attente de AV1 (VP10) , VVC(H266) et MPEG-5 ---- 
 
-#### pour HEVC avec GPU minimum requis avec "YUV 4:4:4" :
+##### pour HEVC avec GPU minimum requis avec "YUV 4:4:4" :
 - Nvidia           
 A partir de :             
 GeForce GTX 1050 / 1050 Ti               
@@ -43,7 +43,7 @@ FAMILY : Pascal
 CHIP : GP107            
 Generation : 6th Gen              
 
-#### Pour HEVC MAXIMUM 4K en "YUV 4:2:0" :   
+##### Pour HEVC MAXIMUM 4K en "YUV 4:2:0" :   
 GeForce GTX 750 / 950 - 960 	Maxwell (2nd Gen) 	       
 GeForce GTX 965M 	Maxwell (2nd Gen)             
 GeForce GTX 965M > 980M / 980MX 	Maxwell (2nd Gen)              
@@ -56,35 +56,35 @@ Compatibilité des Gpu Nvidia : https://developer.nvidia.com/video-encode-and-de
 - AMD         
 incompatible avec AMD et le VCE.  
 
-## Résolution : 
+#### Résolution : 
 - 640x360 / 720x480 / 852x480 / 960x540 / 1280x720 / 1920x1080 / 3840x2160 / 4096x2160
 
-## Pixel: 
+#### Pixel: 
 - yuv410p / yuv411p / yuv420p / yuv420p9le / yuv420p10le / yuv420p16le / yuv422p / yuv422p9le / yuv422p10le / yuv422p16le /
 - / yuv440p / yuv444p / yuv444p9le / yuv444p10le / yuv444p16le / yuva420p / yuva420p9le / yuva420p10le / yuva420p16le  / 
 -  yuva422p / yuva422p9le / yuva422p10le / yuva422p16le / yuva444p / yuva444p9le / yuva444p10le / yuva444p16le
 
 
 
-## Preset: 
+#### Preset: 
 veryslow | slower | slow (2 pass) | medium (1 pass) | fast (1 pass) | faster | veryfast | superfast | ultrafast
 
-## Bitrate video
+#### Bitrate video
 - 512k / 1M / 2M / 3M / 4M / etc...
 
 
-## Framerate: 
+#### Framerate: 
 - 23.976 | 24 | 25 | 29.97 | 30 | 59.94 | 60
 
 
-### AUDIO
-## Echantillonnage:
+## AUDIO
+#### Echantillonnage:
 24KHz | 32KHz | 44.1KHz | 48KHz
 
-## Codec audio: 
+#### Codec audio: 
 - AAC, AC3, PCM, MP3, MP2
 
-### Autres fonctionnalités :
+#### Autres fonctionnalités :
 - conversion PGS vers SRT
 - Choisir les pistes audio, sous-titre, chapitres, pièce-joints et vidéo à garder.
 - LOG en real time avec possibilité d'enregistrer le LOG en format TXT et de l'activer/désactiver pendant le processus.
