@@ -5,6 +5,7 @@
 
 #### Modifications en cours
 - fixed barre de progression
+- recherche pour une implantation du codec VP9
 
 #### Logiciel
 - graphisme : 95%
@@ -33,7 +34,16 @@ mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm
 
 ## Codec: 
 - H264 (avec ou sans GPU) ou H265 (avec ou sans GPU)
-- ---- en attente de AV1 / VP10 et VVC(H266) ---- 
+- ---- en attente de AV1 (VP10) , VVC(H266) et MPEG-5 ---- 
+
+pour HEVC avec GPU minimum requis :
+Nvidia
+A partir de : GeForce GTX 1050 / 1050 Ti 
+FAMILY : Pascal 		
+CHIP : GP107  
+Generation : 6th Gen
+
+Non fonctionnel avec AMD et le VCE.
 
 ## Résolution : 
 - 640x360 / 720x480 / 852x480 / 960x540 / 1280x720 / 1920x1080 / 3840x2160 / 4096x2160
