@@ -36,13 +36,23 @@ mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm
 - H264 (avec ou sans GPU) ou H265 (avec ou sans GPU)
 - ---- en attente de AV1 (VP10) , VVC(H266) et MPEG-5 ---- 
 
-#### pour HEVC avec GPU minimum requis :
+#### pour HEVC avec GPU minimum requis avec "YUV 4:4:4" :
 - Nvidia           
 A partir de :             
 GeForce GTX 1050 / 1050 Ti               
 FAMILY : Pascal              
 CHIP : GP107            
 Generation : 6th Gen              
+
+#### Pour HEVC MAXIMUM 4K en "YUV 4:2:0" :   
+GeForce GTX 750 / 950 - 960 	Maxwell (2nd Gen) 	       
+GeForce GTX 965M 	Maxwell (2nd Gen)             
+GeForce GTX 965M > 980M / 980MX 	Maxwell (2nd Gen)              
+GeForce GTX 960 Ti - 980 	Maxwell (2nd Gen)                
+GeForce GTX 980 Ti 	Maxwell (2nd Gen) 	       	              
+GeForce GTX Titan X                 
+
+Compatibilité des Gpu Nvidia : https://developer.nvidia.com/video-encode-and-decode-gpu-support-matrix-new
 
 - AMD         
 Non fonctionnel avec AMD et le VCE.  
