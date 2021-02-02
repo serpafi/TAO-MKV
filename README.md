@@ -7,7 +7,7 @@
 #### Modifications en cours
 - fixed barre de progression
 - recherche pour une implantation du codec VP9
-
+- freeze détécté au moment du multiplexage (vous devez forcer l'arrêt du logiciel) solution trouvée, plus qu'à l'appliquer
 ## Logiciel
 - graphisme : 95%
 - entrelacement : 10%
