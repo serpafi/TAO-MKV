@@ -2,6 +2,7 @@
 
 
 ### TRAVAIL EN COURS POUR LA VERSION 3 en date du 28.01.2021
+### Version exploitable
 
 #### Modifications en cours
 - fixed barre de progression
