@@ -7,10 +7,6 @@
 #### Modifications en cours
 - fixed barre de progression
 - recherche pour une implantation du codec VP9
-- freeze détécté au moment du multiplexage (vous devez forcer l'arrêt du logiciel).        
-Une solution a été trouvée, plus qu'à l'appliquer.                 
-une boucle de sécurité pas efficace, amélioration de celle-ci, un ajout d'une latence et d'une autre vérification.     
-
 - une erreur étrange qui n'a pas pu être reproduit mais qui n'empèche pas le mux : une partie du nom est doublé dans le nom de la vidéo finale.
 
 ## Logiciel
