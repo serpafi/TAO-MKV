@@ -6,7 +6,6 @@
 
 #### Modifications en cours
 - fixed barre de progression
-- recherche pour une implantation du codec VP9
 - une erreur étrange qui n'a pas pu être reproduit mais qui n'empèche pas le mux : une partie du nom est doublé dans le nom de la vidéo finale.
 
 ## Logiciel
@@ -33,8 +32,27 @@
 mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm
 
 #### Codec: 
-- H264 (avec ou sans GPU) ou H265 (avec ou sans GPU)
-- ---- en attente de AV1 (VP10) , VVC(H266) et MPEG-5 ---- 
+- AVC:     
+H.264 / AVC (libx264) (sans GPU)  
+H.264 / Nvidia (avec GPU)
+H.264 / AMD (avec GPU)        
+H.264 / Intel QuickSync           
+H.264 / RBG     
+
+- HEVC:       
+H.265 / HEVC (libx265) (sans GPU)          
+H.265 / Nvidia (avec GPU)        
+H.265 / AMD (avec GPU)            
+
+- VP9:     
+VP9   / libvpx           
+VP9   / Intel QuickSync            
+
+- AV1:     
+AV1   / libaom        
+AV1   / librav1e       
+
+- ---- en attente de VVC(H266) et MPEG-5 ---- 
 
 ##### pour HEVC avec GPU minimum requis avec "YUV 4:4:4" :
 - Nvidia           
