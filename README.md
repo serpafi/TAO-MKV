@@ -14,19 +14,6 @@
 - fixed barre de progression
 - une erreur étrange qui n'a pas pu être reproduit mais qui n'empèche pas le mux : une partie du nom est doublé dans le nom de la vidéo finale.
 
-## Logiciel
-- graphisme : 95%
-- entrelacement : 10%
-- scission : 10%
-- gestion des listview ( comparaison des noms, caractères unicode et autres, couleurs pour les bugs erreurs et corrections) : 20%
-- gestion des erreurs : 0%
-- menu classique : 90%
-- menu paramètre : 85%
-- menu info : 50%
-- multilangue : 95% ( en évolution, actuellement en français)
-- thème différent : 1 actuellement, violet et noir
-- système d'installation automatique : 10%
-
 ## système d'exploitation
 - windows 7   64 Bits
 - windows 8   64 Bits
@@ -109,8 +96,11 @@ veryslow | slower | slow (2 pass) | medium (1 pass) | fast (1 pass) | faster | v
 #### Codec audio: 
 - AAC, AC3, PCM, MP3, MP2
 
-#### Autres fonctionnalités :
+## SOUS-TITRE
 - conversion PGS vers SRT
+
+
+#### Autres fonctionnalités :
 - Choisir les pistes audio, sous-titre, chapitres, pièce-joints et vidéo à garder.
 - LOG en real time avec possibilité d'enregistrer le LOG en format TXT et de l'activer/désactiver pendant le processus.
 - Drag & Drop
