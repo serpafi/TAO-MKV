@@ -7,6 +7,10 @@
 #### Modifications en cours
 - correction et amélioration de la conversion PGS vers SRT
 - correction d'un bug de lancement du à un lien cassé
+- correction d'un echec aléatoire pendant la conversion
+
+============================================================================================================================================
+
 - fixed barre de progression
 - une erreur étrange qui n'a pas pu être reproduit mais qui n'empèche pas le mux : une partie du nom est doublé dans le nom de la vidéo finale.
 
