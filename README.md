@@ -1,7 +1,7 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
 
-### TRAVAIL EN COURS POUR LA VERSION 3 en date du 24.02.2021
+### TRAVAIL EN COURS POUR LA VERSION 3 en date du 25.02.2021
 ### Version exploitable
 
 #### Modifications en cours
@@ -9,7 +9,7 @@
 - correction d'un bug de lancement du à un lien cassé
 - correction d'un echec aléatoire pendant la conversion
 
-============================================================================================================================================
+============================================================================================
 
 - fixed barre de progression
 - une erreur étrange qui n'a pas pu être reproduit mais qui n'empèche pas le mux : une partie du nom est doublé dans le nom de la vidéo finale.
