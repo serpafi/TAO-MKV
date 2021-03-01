@@ -10,7 +10,8 @@
 - correction d'un echec aléatoire pendant l'extraction et/ou la conversion vidéo
 - amélioration du bouton arret 
 - coerrection de l'extraction des chapitres
-
+- coerrection de l'extraction des pièces-jointes
+- 
 ============================================================================================
 
 - fixed barre de progression
