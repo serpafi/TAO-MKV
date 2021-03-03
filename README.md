@@ -9,7 +9,6 @@
 ============================================================================================
 
 - fixed barre de progression
-- une erreur étrange qui n'a pas pu être reproduit mais qui n'empèche pas le mux : une partie du nom est doublé dans le nom de la vidéo finale.
 
 ## système d'exploitation
 - windows 7   64 Bits
