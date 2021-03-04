@@ -5,12 +5,12 @@
 ### Version exploitable
 
 
-## des plantages peuvent apparaître. 
-## une petite fenetre indiquant la ligne d'erreur et la raison 
-## (ex: array variable has incorrect number of subscript...
-## ou subscript used on non-accessible variable.)
-## si cela se produit, ouvrez un ticket en indiquant la ligne concernée et la raison.
-## j'élimine le maximum d'erreur avant de passer à la version BETA. 
+### des plantages peuvent apparaître. 
+### une petite fenetre indiquant la ligne d'erreur et la raison 
+### (ex: array variable has incorrect number of subscript...
+### ou subscript used on non-accessible variable.)
+### si cela se produit, ouvrez un ticket en indiquant la ligne concernée et la raison.
+### j'élimine le maximum d'erreur avant de passer à la version BETA. 
 
 #### Modifications en cours
 
