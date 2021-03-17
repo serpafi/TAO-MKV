@@ -70,7 +70,7 @@ GeForce GTX Titan X
 Compatibilité des Gpu Nvidia : https://developer.nvidia.com/video-encode-and-decode-gpu-support-matrix-new
 
 - AMD         
-incompatible avec AMD et le VCE.  
+possibilité de travailler avec les GPU AMD mais pas testé.
 
 #### Résolution : 
 - 640x360 / 720x480 / 852x480 / 960x540 / 1280x720 / 1920x1080 / 3840x2160 / 4096x2160
