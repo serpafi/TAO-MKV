@@ -1,8 +1,12 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
 
-### TRAVAIL EN COURS POUR LA VERSION 3 en date du 03.03.2021
+### TRAVAIL EN COURS POUR LA VERSION 3 en date du 02.04.2021
 ### Version exploitable
+
+### problème graphique en raison d'une ligne manquante dans le fichier "data/config.ini". il faut rajouter en dessous de la ligne "version_general="  
+### "theme couleur=violet" ou encore "theme couleur=bleu" en attendandant la prochaine MAJ.
+### Merci à Dams pour avoir révélé ce bug
 
 
 ### des plantages peuvent apparaître. 
