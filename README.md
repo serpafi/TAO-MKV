@@ -4,17 +4,17 @@
 ### TRAVAIL EN COURS POUR LA VERSION 3 en date du 02.04.2021
 ### Version exploitable
 
-### - problème graphique en raison d'une ligne manquante dans le fichier "data/config.ini".
-### il faut rajouter en dessous de la ligne "version_general="  
-### "theme couleur=violet" ou encore "theme couleur=bleu" en attendant la prochaine MAJ.
-### Merci à Dams pour avoir révélé ce bug
+ - problème graphique en raison d'une ligne manquante dans le fichier "data/config.ini".
+ il faut rajouter en dessous de la ligne "version_general="  
+ "theme couleur=violet" ou encore "theme couleur=bleu" en attendant la prochaine MAJ.
+ Merci à Dams pour avoir révélé ce bug
      
-### - des plantages peuvent apparaître. 
-### une petite fenetre indiquant la ligne d'erreur et la raison 
-### (ex: array variable has incorrect number of subscript...
-### ou subscript used on non-accessible variable.)
-### si cela se produit, ouvrez un ticket en indiquant la ligne concernée et la raison.
-### j'élimine le maximum d'erreur avant de passer à la version BETA. 
+ - des plantages peuvent apparaître. 
+ une petite fenetre indiquant la ligne d'erreur et la raison 
+ (ex: array variable has incorrect number of subscript...
+ ou subscript used on non-accessible variable.)
+ si cela se produit, ouvrez un ticket en indiquant la ligne concernée et la raison.
+ j'élimine le maximum d'erreur avant de passer à la version BETA. 
 
 #### Modifications en cours
 
