@@ -8,8 +8,8 @@
 ### il faut rajouter en dessous de la ligne "version_general="  
 ### "theme couleur=violet" ou encore "theme couleur=bleu" en attendandant la prochaine MAJ.
 ### Merci à Dams pour avoir révélé ce bug
-
-
+###
+###
 ### des plantages peuvent apparaître. 
 ### une petite fenetre indiquant la ligne d'erreur et la raison 
 ### (ex: array variable has incorrect number of subscript...
