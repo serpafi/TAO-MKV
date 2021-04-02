@@ -6,7 +6,7 @@
 
 ### - problème graphique en raison d'une ligne manquante dans le fichier "data/config.ini".
 ### il faut rajouter en dessous de la ligne "version_general="  
-### "theme couleur=violet" ou encore "theme couleur=bleu" en attendandant la prochaine MAJ.
+### "theme couleur=violet" ou encore "theme couleur=bleu" en attendant la prochaine MAJ.
 ### Merci à Dams pour avoir révélé ce bug
      
 ### - des plantages peuvent apparaître. 
