@@ -6,7 +6,7 @@
 
 #### Modifications en cours
 - la barre de progression n'est toujours pas opérationnelle
-============================================================================================
+=========================================================================================
 
 ## système d'exploitation
 - windows 7   64 Bits
