@@ -16,7 +16,7 @@
 ## video
 
 #### Extension :
-mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm
+mkv, mp4, avi, flv, mp3, mp2 ac3, aac, pcm, mov
 
 #### Codec: 
 - AVC:     
