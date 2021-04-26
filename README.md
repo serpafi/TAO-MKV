@@ -4,8 +4,14 @@
 ### TRAVAIL EN COURS POUR LA VERSION 3 en date du 02.04.2021
 
 ### Version 3.0.2.0 NON exploitable !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+cette version est un teste, un patch de correction sortira bientôt.
+Il réglera surtout le problème des pistes manquantes dans le fichier final
 
-un launcher offline est en cours de développement avec TAO-MKV version 3.0.2.0 
+le launcher sera corrigé dans la foulée.
+
+
+
+un launcher offline est en cours de développement.
 
 #### Modifications en cours
 - la barre de progression n'est toujours pas opérationnelle
