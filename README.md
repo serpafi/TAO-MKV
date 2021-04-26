@@ -2,9 +2,10 @@
 
 
 ### TRAVAIL EN COURS POUR LA VERSION 3 en date du 02.04.2021
-### Version exploitable
 
-un launcher offline est en cours de développement avec TAO-MKV version 3.0.2.0
+### Version 3.0.2.0 NON exploitable !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+un launcher offline est en cours de développement avec TAO-MKV version 3.0.2.0 
 
 #### Modifications en cours
 - la barre de progression n'est toujours pas opérationnelle
