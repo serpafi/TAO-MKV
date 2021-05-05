@@ -1,14 +1,7 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
 
-### TRAVAIL EN COURS POUR LA VERSION 3 en date du 02.04.2021
-
-### Version 3.0.2.0 NON exploitable !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-cette version est un teste, un patch de correction sortira bientôt.
-Il réglera surtout le problème des pistes manquantes dans le fichier final
-
-le launcher sera corrigé dans la foulée.
-
+### TRAVAIL EN COURS POUR LA VERSION 3 en date du 05.05.2021
 
 
 un launcher offline est en cours de développement.
