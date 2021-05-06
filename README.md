@@ -15,6 +15,13 @@ un launcher offline est en cours de développement.
 - windows 8   64 Bits
 - windows 10  64 Bits
 
+## langues
+- français
+- anglais
+- espagnol
+- italien
+- allemand
+
 ## video
 
 #### Extension :
