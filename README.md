@@ -1,13 +1,12 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
 
-### TRAVAIL EN COURS POUR LA VERSION 3 en date du 05.05.2021
+### TRAVAIL EN COURS POUR LA VERSION 3 en date du 14.07.2021
 
 
 un launcher offline est en cours de développement.
 
 #### Modifications en cours
-- la barre de progression n'est toujours pas opérationnelle
 =========================================================================================
 
 ## système d'exploitation
