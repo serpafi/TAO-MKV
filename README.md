@@ -1,10 +1,10 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
 
-### TRAVAIL EN COURS POUR LA VERSION 3 en date du 08.08.2021
+### TRAVAIL EN COURS POUR LA VERSION 3 en date du 26.10.2021
 
 
-un launcher offline est en cours de développement.
+un launcher offline est en ligne.
 
 #### Modifications en cours
 =========================================================================================
@@ -116,6 +116,7 @@ veryslow | slower | slow (2 pass) | medium (1 pass) | fast (1 pass) | faster | v
 - étirement et décalage des pistes pour chaque liste
 - conversion audio 5.1 vers stéréo
 - détéction des blocks endommagés (video qui se coupe) 
+- iso dvd vers mkv
 
 ### preview de la V3
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/preview%20video.png)
