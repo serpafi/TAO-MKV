@@ -4,7 +4,7 @@
 ### TRAVAIL EN COURS POUR LA VERSION 3 en date du 26.10.2021
 
 
-un launcher offline est en ligne.
+un launcher offline est en ligne. https://github.com/serpafi/TAO-MKV/releases/download/1.0/TAO-MKV.Launcher.Offline.exe
 
 #### Modifications en cours
 =========================================================================================
