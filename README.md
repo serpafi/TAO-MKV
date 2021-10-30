@@ -115,7 +115,7 @@ veryslow | slower | slow (2 pass) | medium (1 pass) | fast (1 pass) | faster | v
 - vérification de l'intégrité mkv
 - étirement et décalage des pistes pour chaque liste
 - conversion audio 5.1 vers stéréo
-- détéction des blocks endommagés (video qui se coupe) 
+- détection des blocks endommagés (video qui se coupe) 
 - iso dvd vers mkv
 
 ### preview de la V3
