@@ -4,8 +4,8 @@
 ### TRAVAIL EN COURS POUR LA VERSION 3 en date du 07.11.2021
 
 si vous avez ce message d'erreur "Driver does not support the required nvenc API version", 2 solutions :
-1: revenir à une version antèrieur de ffmpeg
-2: mettre à jour votre carte graphique
+- 1: revenir à une version antèrieur de ffmpeg
+- 2: mettre à jour votre carte graphique
 
 
 un launcher offline est en ligne. https://github.com/serpafi/TAO-MKV/releases/download/1.0/TAO-MKV.Launcher.Offline.exe
