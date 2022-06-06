@@ -1,7 +1,7 @@
 ![](https://github.com/serpafi/TAO-MKV/blob/master/image/logo.png)
 
 
-### TRAVAIL EN COURS POUR LA VERSION 3 en date du 07.11.2021
+### TRAVAIL EN COURS POUR LA VERSION 3 en date du 06.06.2022
 
 si vous avez ce message d'erreur "Driver does not support the required nvenc API version", 2 solutions :
 - 1: revenir à une version antèrieur de ffmpeg
